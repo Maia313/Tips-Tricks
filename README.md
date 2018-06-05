@@ -1,13 +1,13 @@
 # Tips-Tricks
 
 ### Learn the terminal
-[1 - Terminus](http://www.mprat.org/Terminus/, 'Click')
+[1 - Terminus](http://www.mprat.org/Terminus/ , 'Click')
 
-[2 - cmdChallenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
+[2 - cmdChallenge](https://cmdchallenge.com/#/print_file_contents , 'Click me')
 
 ### Others
 
-[3 -programmingGuide ](https://guide.freecodecamp.org/, 'Click me instead')
+[3 -programmingGuide ](https://guide.freecodecamp.org/ , 'Click me instead')
 
 [4 - ](https://github.com/maia313, 'Nooo, me')
 
