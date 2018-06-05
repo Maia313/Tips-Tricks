@@ -6,7 +6,7 @@
 [2 - cmdChallenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
 
 
-[3 - ](https://github.com/maia313,'Click me instead')
+[3 - ](https://github.com/maia313, 'Click me instead')
 
 [4 - ](https://github.com/maia313,'No, me')
 
