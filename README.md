@@ -1,4 +1,4 @@
 # Tips-Tricks
 
 ### Learn the terminal
-[1](http://www.mprat.org/Terminus/)
+[1- terminus](http://www.mprat.org/Terminus/, 'Click')
