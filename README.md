@@ -9,7 +9,7 @@
 
 [3 -programming Guide ](https://guide.freecodecamp.org/, 'Click me instead')
 
-[4 - gridd by example ](https://gridbyexample.com/, 'Nooo, me')
+[4 - grid by example ](https://gridbyexample.com/, 'Nooo, me')
 
 [5 - ](https://github.com/maia313, 'I am also here')
 
