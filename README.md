@@ -3,13 +3,13 @@
 ### Learn the terminal
 [1 - Terminus](http://www.mprat.org/Terminus/, 'Click')
 
-[2 - cmdChallenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
+[2 - cmd Challenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
 
 ### Others
 
-[3 -programmingGuide ](https://guide.freecodecamp.org/, 'Click me instead')
+[3 -programming Guide ](https://guide.freecodecamp.org/, 'Click me instead')
 
-[4 - ](https://github.com/maia313, 'Nooo, me')
+[4 - gridd by example ](https://gridbyexample.com/, 'Nooo, me')
 
 [5 - ](https://github.com/maia313, 'I am also here')
 
