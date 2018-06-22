@@ -1,5 +1,5 @@
 #### GET VERSION
-```bash
+```npm
 npm -v (or --version)
 ```
 #### GET HELP
