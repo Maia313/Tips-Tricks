@@ -1,6 +1,7 @@
 #### GET VERSION
+```git
 npm -v (or --version)
-
+```
 #### GET HELP
 npm help
 npm
