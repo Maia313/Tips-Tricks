@@ -13,7 +13,7 @@
 
 [5 - COLORs](https://mycolor.space/, 'I am also here')
 
-[6 - ](https://github.com/maia313, 'Eat me')
+[6 - CSS properties visually explained ](https://cssreference.io/, 'Eat me')
 
 [7 - ](https://github.com/maia313, 'Drink me')
 
