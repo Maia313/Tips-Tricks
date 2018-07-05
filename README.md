@@ -7,7 +7,7 @@
 
 ### Others
 
-[3 -programming Guide ](https://guide.freecodecamp.org/, 'Click me instead')
+[3 - programming Guide ](https://guide.freecodecamp.org/, 'Click me instead')
 
 [4 - grid by example ](https://gridbyexample.com/, 'Nooo, me')
 
