@@ -15,7 +15,7 @@
 
 [6 - CSS properties visually explained ](https://cssreference.io/, 'Eat me')
 
-[7 - ](https://github.com/maia313, 'Drink me')
+[7 - Regex check](https://regex101.com/, 'Drink me')
 
 [8 - ](https://github.com/maia313, 'Hey, we are clicking here')
 
