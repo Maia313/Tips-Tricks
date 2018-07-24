@@ -17,7 +17,7 @@
 
 [7 - Regex check](https://regex101.com/, 'Drink me')
 
-[8 - ](, 'Hey, we are clicking here')
+[8 - React patterns](https://reactpatterns.com/, 'Hey, we are clicking here')
 
 [9 - ](, 'Are we?')
 
