@@ -25,6 +25,6 @@
 
 [11 - React router](https://reach.tech/router, 'I am clickable')
 
-[12 - ](https://github.com/maia313, 'Me too')
+[12 - Gradient](http://jxnblk.com/shade, 'Me too')
 
 [13 - ](https://github.com/maia313, 'I\'m not')
