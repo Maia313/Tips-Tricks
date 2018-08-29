@@ -29,6 +29,6 @@
 
 [13 - UX](https://alistapart.com/, 'I\'m not')
 
-[14 - UX](, 'Me neither')
+[14 - ](, 'Me neither')
 
-[15 - UX](, 'No way')
+[15 - ](, 'No way')
