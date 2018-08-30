@@ -27,7 +27,7 @@
 
 [12 - Gradient](http://jxnblk.com/shade, 'Me too')
 
-[13 - UX](https://alistapart.com/, 'I\'m not')
+[13 - A list apart](https://alistapart.com/, 'I\'m not')
 
 [14 - ](, 'Me neither')
 
