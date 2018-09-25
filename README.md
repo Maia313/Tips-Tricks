@@ -30,7 +30,7 @@
 
 [13 - Gradients ](https://webgradients.com/, 'Me neither')
 
-[14 - ](, 'No way')
+[14 - React Color - A Collection of Color Pickers ](http://casesandberg.github.io/react-color/, 'No way')
 
 [15 - ](, 'Click me instead')
 
