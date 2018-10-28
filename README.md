@@ -40,7 +40,7 @@
 
 [16 - Animate](https://animista.net, 'The only')
 
-[17 - SVGs to React components](https://svgr.now.sh/ , 'And only')
+[17 - SVGs to React components](https://svgr.now.sh/, 'And only')
 
 [18 - ](, 'And')
 
