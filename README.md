@@ -42,6 +42,6 @@
 
 [17 - SVGs to React components](https://svgr.now.sh/, 'And only')
 
-[18 - ](, 'And')
+[18 - Frontend questions](https://30secondsofinterviews.org/, 'And')
 
 [19 - ](, '')
