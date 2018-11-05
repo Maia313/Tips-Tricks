@@ -46,6 +46,6 @@
 
 [19 - Baby talk website](https://babytalkfordads.org/, 'I do')
 
-[20 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I don't know')
+[20 - Woah](https://www.joerezendes.com/projects/Woah.css/, 'I don't know')
 
 
