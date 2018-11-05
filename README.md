@@ -44,7 +44,8 @@
 
 [18 - Frontend questions](https://30secondsofinterviews.org/, 'And')
 
-[19 - Woah](http://joerezendes.com/, 'I don't know')
+[19 - Baby talk website](https://babytalkfordads.org/, 'I do')
 
-[20 - Baby talk website](https://babytalkfordads.org/, 'I do')
+[20 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I don't know')
+
 
