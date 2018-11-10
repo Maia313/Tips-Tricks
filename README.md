@@ -3,7 +3,7 @@
 ### Learn the terminal
 [1 - Terminus](http://www.mprat.org/Terminus/, 'Click')
 
-[2 - cmd Challenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
+[2 - Cmd Challenge](https://cmdchallenge.com/#/print_file_contents, 'Click me')
 
 ### React
 
@@ -26,7 +26,7 @@
 
 ### Others
 
-[10 - grid by example ](https://gridbyexample.com/, 'I am clickable')
+[10 - Grid by example ](https://gridbyexample.com/, 'I am clickable')
 
 [11 - CSS properties visually explained ](https://cssreference.io/, 'Me too')
 
