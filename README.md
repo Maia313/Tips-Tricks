@@ -44,9 +44,9 @@
 
 [18 - Frontend questions](https://30secondsofinterviews.org/, 'And')
 
-[19 - Baby talk website](https://babytalkfordads.org/, 'I dont know')
+[19 - Baby talk website](https://babytalkfordads.org/, 'I do not know')
 
-[20 - Woah](, 'I do')
+[20 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
 
 [21 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
 
