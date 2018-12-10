@@ -21,35 +21,38 @@
 
 [8 - Gradient](http://jxnblk.com/shade, 'Are we?')
 
-[9 - Gradients ](https://webgradients.com/, 'You forgot the point')
+[9 - Gradient 2]('https://shapy.app/', '')
+
+[10 - Gradients ](https://webgradients.com/, 'You forgot the point')
 
 
 ### Others
 
-[10 - Grid by example ](https://gridbyexample.com/, 'I am clickable')
+[11 - Grid by example ](https://gridbyexample.com/, 'I am clickable')
 
-[11 - CSS properties visually explained ](https://cssreference.io/, 'Me too')
+[12 - CSS properties visually explained ](https://cssreference.io/, 'Me too')
 
-[12 - Regex check](https://regex101.com/, 'I\'m not')
+[13 - Regex check](https://regex101.com/, 'I\'m not')
 
-[13 - In browser markdown](https://stackedit.io/app#, 'Me neither')
+[14 - In browser markdown](https://stackedit.io/app#, 'Me neither')
 
-[14 - A list apart](https://alistapart.com/, 'No way')
+[15 - A list apart](https://alistapart.com/, 'No way')
 
-[15 - Visualize code](http://pythontutor.com/, 'Click me instead')
+[16 - Visualize code](http://pythontutor.com/, 'Click me instead')
 
-[16 - Animate](https://animista.net, 'The only')
+[17 - Animate](https://animista.net, 'The only')
 
-[17 - SVGs to React components](https://svgr.now.sh/, 'And only')
+[18 - SVGs to React components](https://svgr.now.sh/, 'And only')
 
-[18 - Frontend questions](https://30secondsofinterviews.org/, 'And')
+[19 - Frontend questions](https://30secondsofinterviews.org/, 'And')
 
-[19 - Baby talk website](https://babytalkfordads.org/, 'I do not know')
+[20 - Baby talk website](https://babytalkfordads.org/, 'I do not know')
 
-[20 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
+[21 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
 
-[21 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
+[22 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
 
-[22 - Frontend checklist](https://frontendchecklist.io/, '')
+[23 - Frontend checklist](https://frontendchecklist.io/, '')
+
 
 
