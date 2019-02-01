@@ -58,7 +58,7 @@
 
 [25 - Hints](https://devhints.io/, '')
 
-[26 -](https://simpleicons.org/, '')
+[26 - SVG icons](https://simpleicons.org/, '')
 
 
 
