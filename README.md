@@ -21,7 +21,7 @@
 
 [8 - Gradient](http://jxnblk.com/shade, 'Are we?')
 
-[9 - Grad]('https://shapy.app/', '')
+[9 - Grad](https://shapy.app/, '')
 
 [10 - Gradients ](https://webgradients.com/, 'You forgot the point')
 
