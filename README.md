@@ -58,6 +58,8 @@
 
 [25 - Hints](https://devhints.io/, '')
 
+[26 -](https://simpleicons.org/, '')
+
 
 
 
