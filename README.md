@@ -60,7 +60,7 @@
 
 [26 - SVG icons](https://simpleicons.org/, '')
 
-[27 - ](, '')
+[27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, '')
 
 
 
