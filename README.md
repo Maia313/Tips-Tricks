@@ -62,6 +62,8 @@
 
 [27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, '')
 
+[28 - Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/, '')
+
 
 
 
