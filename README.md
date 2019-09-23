@@ -50,20 +50,21 @@
 
 [21 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
 
-[22 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
+[22 - Svg-editor](https://flukeout.github.io/PolyPal/, 'Wow')
 
-[23 - Frontend checklist](https://frontendchecklist.io/, '')
+[23 - Frontend checklist](https://frontendchecklist.io/, 'Woow')
 
-[24 - Graphs](http://www.apcjones.com/arrows/, '')
+[24 - Graphs](http://www.apcjones.com/arrows/, 'Wooow')
 
-[25 - Hints](https://devhints.io/, '')
+[25 - Hints](https://devhints.io/, 'WOW')
 
-[26 - SVG icons](https://simpleicons.org/, '')
+[26 - SVG icons](https://simpleicons.org/, 'wOw')
 
-[27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, '')
+[27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, 'wOOw')
 
-[28 - Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/, '')
+[28 - Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/, 'wOOOw')
 
+[29 - Icons](https://icons8.com/icons, 'WoooW')
 
 
 
