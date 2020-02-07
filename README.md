@@ -25,6 +25,8 @@
 
 [10 - Gradients ](https://webgradients.com/, 'You forgot the point')
 
+[ - Encycolorpedia ](https://encycolorpedia.com/e10098)
+
 
 ### Others
 
