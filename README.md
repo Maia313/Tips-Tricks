@@ -70,7 +70,7 @@
 
 [30 - Advent of Web design & development](https://24ways.org/)
 
-[31 - Advent of Web design & development](https://github.com/manojVivek/responsively-app)
+[31 - Develop responsive apps faster](https://github.com/manojVivek/responsively-app)
 
 
 
