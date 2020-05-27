@@ -72,5 +72,5 @@
 
 [31 - Develop responsive apps faster](https://github.com/manojVivek/responsively-app)
 
-
+[31 - Learn SQL game](https://sqlpd.com/)
 
