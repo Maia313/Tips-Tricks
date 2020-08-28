@@ -72,5 +72,8 @@
 
 [31 - Develop responsive apps faster](https://github.com/manojVivek/responsively-app)
 
-[31 - Learn SQL game](https://sqlpd.com/)
+[32 - Icons](https://feathericons.com/)
+
+[33 - Learn VIM](https://github.com/iggredible/Learn-Vim)
+
 
