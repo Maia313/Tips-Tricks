@@ -1,9 +1,0 @@
-### Console.log
-
-```js
-  %s: logs as strings
-  %i or %d: logs as integers
-  %f: logs as floating-point value
-  %o: logs as an expandable DOM element
-  %O: logs as an expandable JavaScript object
-```
