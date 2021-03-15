@@ -1,6 +1,6 @@
 ### console.log
 
-```
+```js
     %s: logs as strings
     %i or %d: logs as integers
     %f: logs as floating-point value
