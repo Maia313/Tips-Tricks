@@ -1,4 +1,4 @@
-### console.log
+### Console.log
 
 ```js
   %s: logs as strings
