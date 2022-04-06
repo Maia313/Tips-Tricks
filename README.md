@@ -11,21 +11,20 @@
 
 [4 - React sortable tree](https://react-sortable-tree.surge.sh/, 'I am also here')
 
-[5 - React router](https://reach.tech/router, 'Eat me')
 
 ### Colors
 
-[6 - React Color - A Collection of Color Pickers ](http://casesandberg.github.io/react-color/, 'Drink me')
+[5 - React Color - A Collection of Color Pickers ](http://casesandberg.github.io/react-color/, 'Drink me')
 
-[7 - COLORs](https://mycolor.space/, 'Hey, we are clicking here')
+[6 - COLORs](https://mycolor.space/, 'Hey, we are clicking here')
 
-[8 - Gradient](http://jxnblk.com/shade, 'Are we?')
+[7 - Gradient](http://jxnblk.com/shade, 'Are we?')
 
-[9 - Grad](https://shapy.app/, '')
+[8 - Grad](https://shapy.app/, '')
 
-[10 - Gradients ](https://webgradients.com/, 'You forgot the point')
+[9 - Gradients ](https://webgradients.com/, 'You forgot the point')
 
-[ - Encycolorpedia ](https://encycolorpedia.com/e10098)
+[10 - Encycolorpedia ](https://encycolorpedia.com/e10098)
 
 
 ### Others
@@ -52,21 +51,21 @@
 
 [21 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
 
-[22 - Svg-editor](https://flukeout.github.io/PolyPal/, 'Wow')
+[22 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
 
-[23 - Frontend checklist](https://frontendchecklist.io/, 'Woow')
+[23 - Frontend checklist](https://frontendchecklist.io/, '')
 
-[24 - Graphs](http://www.apcjones.com/arrows/, 'Wooow')
+[24 - Graphs](http://www.apcjones.com/arrows/, '')
 
-[25 - Hints](https://devhints.io/, 'WOW')
+[25 - Hints](https://devhints.io/, '')
 
-[26 - SVG icons](https://simpleicons.org/, 'wOw')
+[26 - SVG icons](https://simpleicons.org/, '')
 
-[27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, 'wOOw')
+[27 - Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools, '')
 
-[28 - Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/, 'wOOOw')
+[28 - Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
-[29 - Icons](https://icons8.com/icons, 'WoooW')
+[29 - Icons](https://icons8.com/icons)
 
 [30 - Advent of Web design & development](https://24ways.org/)
 
@@ -80,4 +79,5 @@
 
 [35 - ](https://observatory.mozilla.org/)
 
+[36 - Webpage test](https://www.webpagetest.org/, '')
 
