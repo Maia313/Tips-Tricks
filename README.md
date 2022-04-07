@@ -57,7 +57,7 @@
 
 [24 - Graphs](http://www.apcjones.com/arrows/, '')
 
-[25 - Hints](https://devhints.io/, '')
+[25 - Devhints](https://devhints.io/, '')
 
 [26 - SVG icons](https://simpleicons.org/, '')
 
