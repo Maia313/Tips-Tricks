@@ -55,9 +55,9 @@
 
 [23 - Frontend checklist](https://frontendchecklist.io/, '')
 
-[24 - Graphs](http://www.apcjones.com/arrows/, '')
+[24 - Graphs](http://www.apcjones.com/arrows/)
 
-[25 - Devhints](https://devhints.io/, '')
+[25 - Devhints](https://devhints.io/)
 
 [26 - SVG icons](https://simpleicons.org/)
 
