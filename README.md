@@ -51,9 +51,9 @@
 
 [21 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
 
-[22 - Svg-editor](https://flukeout.github.io/PolyPal/, '')
+[22 - Svg-editor](https://flukeout.github.io/PolyPal/)
 
-[23 - Frontend checklist](https://frontendchecklist.io/, '')
+[23 - Frontend checklist](https://frontendchecklist.io/)
 
 [24 - Arrows.app](https://arrows.app/)
 
