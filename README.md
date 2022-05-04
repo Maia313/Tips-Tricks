@@ -29,27 +29,27 @@
 
 ### Others
 
-[11 - Grid by example ](https://gridbyexample.com/, 'I am clickable')
+[11 - Grid by example ](https://gridbyexample.com/)
 
-[12 - CSS properties visually explained ](https://cssreference.io/, 'Me too')
+[12 - CSS properties visually explained ](https://cssreference.io/)
 
-[13 - Regex check](https://regex101.com/, 'I\'m not')
+[13 - Regex check](https://regex101.com/)
 
-[14 - In browser markdown](https://stackedit.io/app#, 'Me neither')
+[14 - In browser markdown](https://stackedit.io/app#)
 
-[15 - A list apart](https://alistapart.com/, 'No way')
+[15 - A list apart](https://alistapart.com/)
 
-[16 - Visualize code](http://pythontutor.com/, 'Click me instead')
+[16 - Visualize code](http://pythontutor.com/)
 
-[17 - Animate](https://animista.net, 'The only')
+[17 - Animate](https://animista.net)
 
-[18 - SVGs to React components](https://svgr.now.sh/, 'And only')
+[18 - SVGs to React components](https://svgr.now.sh/)
 
-[19 - Frontend questions](https://30secondsofinterviews.org/, 'And')
+[19 - Frontend questions](https://30secondsofinterviews.org/)
 
-[20 - Baby talk website](https://babytalkfordads.org/, 'I do not know')
+[20 - Baby talk website](https://babytalkfordads.org/)
 
-[21 - Woah](http://www.joerezendes.com/projects/Woah.css/, 'I do')
+[21 - Woah](http://www.joerezendes.com/projects/Woah.css/)
 
 [22 - Svg-editor](https://flukeout.github.io/PolyPal/)
 
