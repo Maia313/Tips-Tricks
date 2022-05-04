@@ -55,7 +55,7 @@
 
 [23 - Frontend checklist](https://frontendchecklist.io/, '')
 
-[24 - Graphs](http://www.apcjones.com/arrows/)
+[24 - Arrows.app](https://arrows.app/)
 
 [25 - Devhints](https://devhints.io/)
 
