@@ -86,3 +86,4 @@
 [38 - Code snippets](https://chalk.ist/)
 
 [39 - Robots](https://www.engineeredarts.co.uk/about-us/brochures/)
+[40 - Defensive css](https://ishadeed.com/article/defensive-css/?utm_source=Web-Design-Weekly.com&utm_medium=Newsletter&utm_campaign=404)
