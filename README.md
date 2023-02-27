@@ -88,3 +88,5 @@
 [39 - Robots](https://www.engineeredarts.co.uk/about-us/brochures/)
 
 [40 - Defensive css](https://ishadeed.com/article/defensive-css/?utm_source=Web-Design-Weekly.com&utm_medium=Newsletter&utm_campaign=404)
+
+[41- Great css tips](https://www.builder.io/blog/css-tips-for-better-web-development?ref=web-design-weekly.com)
