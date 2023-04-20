@@ -94,3 +94,5 @@
 [42 - React virtualized](https://github.com/bvaughn/react-virtualized)
 
 [43 - JS great to use](https://www.codesolutionstuff.com/10-javascript-tricks-developer-should-know/?ref=web-design-weekly.com)
+
+[44 - Sequence diagram](https://swimlanes.io/)
