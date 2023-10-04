@@ -96,3 +96,5 @@
 [43 - JS great to use](https://www.codesolutionstuff.com/10-javascript-tricks-developer-should-know/?ref=web-design-weekly.com)
 
 [44 - Sequence diagram](https://swimlanes.io/)
+
+[45 - Free various fonts](https://fontesk.com/reis-font/)
