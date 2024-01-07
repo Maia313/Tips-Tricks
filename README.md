@@ -99,3 +99,5 @@
 [44 - Sequence diagram](https://swimlanes.io/)
 
 [45 - Free various fonts](https://fontesk.com/reis-font/)
+
+[46 - Front tips](https://front.tips/)
