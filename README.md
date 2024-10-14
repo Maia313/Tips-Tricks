@@ -102,4 +102,4 @@
 
 [46 - Front tips](https://front.tips/)
 
-[47 - ](https://phuoc.ng/collection/html-dom/)
+[47 - HTML manipulation](https://phuoc.ng/collection/html-dom/)
