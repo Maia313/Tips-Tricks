@@ -103,3 +103,7 @@
 [46 - Front tips](https://front.tips/)
 
 [47 - HTML manipulation](https://phuoc.ng/collection/html-dom/)
+
+https://www.sitepoint.com/best-material-ui-themes/?utm_source=newsletter&utm_medium=email&utm_campaign=Frontend%20Weekly#h-6-voice-news-a-material-design-theme-for-online-magazines
+
+https://github.com/AnthonyZhang220/portfolio-website/blob/main/src/components/MusicPlayer.jsx
